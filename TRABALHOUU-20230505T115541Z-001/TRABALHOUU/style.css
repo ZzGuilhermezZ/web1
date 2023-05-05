@@ -1,0 +1,109 @@
+body {
+	font-family: Arial, sans-serif;
+	background-color: #f2f2f2;
+}
+
+h1 {
+	text-align: center;
+	margin-top: 50px;
+	color: #4286f4;
+}
+
+form {
+	width: 50%;
+	margin: 0 auto;
+	background-color: white;
+	padding: 20px;
+	border-radius: 10px;
+	box-shadow: 1px 1px 5px rgba(0, 0, 0, 0.1);
+}
+
+label {
+	display: block;
+	margin-bottom: 10px;
+	color: #333;
+}
+
+input[type="number"] {
+	padding: 10px;
+	margin-bottom: 20px;
+	border-radius: 5px;
+	border: none;
+	box-shadow: 1px 1px 5px rgba(0, 0, 0, 0.1);
+}
+
+button {
+	padding: 10px 20px;
+	margin-top: 20px;
+	border-radius: 5px;
+	border: none;
+	background-color: #4286f4;
+	color: white;
+	box-shadow: 1px 1px 5px rgba(0, 0, 0, 0.1);
+	cursor: pointer;
+}
+
+p {
+	font-size: 1.2em;
+	font-weight: bold;
+	text-align: center;
+	margin-top: 30px;
+	color: #333;
+}
+
+.texto{
+
+	justify-content:first baseline;
+	align-items: center;
+	text-align: center;
+	color: rgb(3, 0, 175);
+	font-size: 1.9rem;
+	
+
+}
+
+.texto2{
+color: rgb(0, 0, 0);
+justify-content: first baseline;
+align-items: center;
+text-align: center;
+font-size: 1.5 rem;
+padding-top: 4%;
+width: 20;
+
+}
+.texto3{
+	color: rgb(0, 0, 0);
+	justify-content: first baseline;
+	align-items:center;
+	text-align: left;
+	font-size: 1.5 rem;
+	padding-top: 4%;
+	width: 30%;
+	margin-left: 6%;
+	}
+	
+.texto4{
+       color: rgb(0, 0, 0);
+		justify-content: first baseline;
+		align-items: center;
+		text-align: left;
+		font-size: 1.5 rem;
+		padding-top: 4%;
+		width: 30%;
+		margin-right: 10%;
+		padding-left: 6%;
+		
+}
+.corpo1{
+
+background-image: url(../TRABALHOUU/imagens/foto1.jpg);
+
+}
+
+.linkudo{
+	margin-left: 45%;
+	color: rgb(128, 255, 0);
+	font-size: 30px;
+	
+}
